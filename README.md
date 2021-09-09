@@ -76,6 +76,60 @@
 ![SCHEME](https://github.com/AlexGyver/ColorMusic/blob/master/schemes/scheme3.jpg)
 
 <a id="chapter-3"></a>
+## Материалы и компоненты
+### Ссылки оставлены на магазины, с которых я закупаюсь уже не один год
+* Arduino NANO 328p – искать
+* https://ali.ski/eAdng
+* https://ali.ski/Aq5JZ
+* https://ali.ski/WvSDW
+* https://ali.ski/bO6pHg
+* Giant4 (Россия)
+* Адресная лента
+* https://ali.ski/IgNcl_
+* https://ali.ski/AYJct
+* Купить в РФ, 60 свет/метр, 30 свет/метр
+* Black PCB / White PCB – цвет подложки ленты, чёрная / белая. В видео была чёрная
+* 1m/5m – длина ленты в метрах (чтобы заказать 2 метра, берите два заказа 1m, очевидно)
+* 30/60/74/96/100/144 – количество светодиодов на 1 метр ленты. В видео использовалась лента 60 диодов на метр
+* IP30 лента без влагозащиты (как на видео)
+* IP65 лента покрыта силиконом
+* IP67 лента полностью в силиконовом коробе
+* Постфикс ECO – лента чуть более низкого качества, меньше меди, на длинной ленте будет сильно проседать яркость
+* Лента как на видео: Black PCB 5m 60 IP30
+* Понижайка для автомобиля https://ali.ski/zBsqQj
+* БП 5V Али искать (минимум 3A на каждые 100 LED)
+* https://ali.ski/PcYeh
+* https://ali.ski/d2G7lX
+* Адаптер питания 5.5х2.1 https://ali.ski/qh5RD
+* Аудио гнездо https://ali.ski/v07LH
+* Разветвитель наушников https://ali.ski/WLlZB1
+* ИК пульт (для версии 2.0 WAVGAT) https://ali.ski/YW784-
+* Звук через микрофон
+* Микрофон модуль https://ali.ski/0fOA8
+* Звук по FM радио
+* Передатчик FM https://ali.ski/07dNER https://ali.ski/UUuC9
+* Передатчик “сделай сам” https://ali.ski/3JctlM https://ali.ski/gNQoX_
+* Приёмник FM из видео https://ali.ski/ODzKil https://ali.ski/n0BpSM
+* Понижайка 3.3V https://ali.ski/5oTbO https://ali.ski/8GnmM
+* Приёмник “сделай сам” https://ali.ski/y-jn1D
+* Звук по Bluetooth
+* Передатчик Bluetooth https://ali.ski/P5Ii01
+* Приёмник “свисток” https://ali.ski/uVQZuS
+* Ещё приёмник https://ali.ski/jaQP4
+* Кнопки, конденсаторы и крутилки ищите в любых магазинах для радиолюбителей, так как у китайцев можно купить только мешок 50 штук!
+* Алик
+* Куча резисторов https://ali.ski/f5Bcb
+* Куча кнопок https://ali.ski/uzE6Q
+* Куча конденсаторов https://ali.ski/VHlIV
+* Куча потенциометров (можно обойтись без него! Читайте инструкцию) https://ali.ski/eBIFQ
+* Куча конденсаторов для микрофона https://ali.ski/CuNfG
+* ЧипДип (Россия)
+* Резистор https://www.chipdip.ru/product0/27226
+* Кнопка https://www.chipdip.ru/product/tyco-2-1825910-7-fsm14jh
+* Конденсатор 10нф https://www.chipdip.ru/product0/42179
+* Конденсатор для микрофона https://www.chipdip.ru/product0/9000261766
+* Потенциометр  (можно обойтись без него! Читайте инструкцию) https://www.chipdip.ru/product/r-0901n-b20k
+
 ## Вам скорее всего пригодится
 * [Всё для пайки (паяльники и примочки)](http://alexgyver.ru/all-for-soldering/)
 * [Недорогие инструменты](http://alexgyver.ru/my_instruments/)
